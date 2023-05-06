@@ -1,0 +1,9 @@
+﻿  mainFram.cpp
+C:\Users\ZAWAD\Documents\game\game-premake-main\Pong Ball\_build\mainFram.cpp(18,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ZAWAD\Documents\game\game-premake-main\Pong Ball\_build\mainFram.cpp(18,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ZAWAD\Documents\game\game-premake-main\Pong Ball\_build\mainFram.cpp(22,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ZAWAD\Documents\game\game-premake-main\Pong Ball\_build\mainFram.cpp(23,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ZAWAD\Documents\game\game-premake-main\Pong Ball\_build\mainFram.cpp(71,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ZAWAD\Documents\game\game-premake-main\Pong Ball\_build\mainFram.cpp(131,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ZAWAD\Documents\game\game-premake-main\Pong Ball\_build\mainFram.cpp(149,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  game-premake-main.vcxproj -> C:\Users\ZAWAD\Documents\game\game-premake-main\Pong Ball\_bin\Release\Unlimited Pong Game.exe

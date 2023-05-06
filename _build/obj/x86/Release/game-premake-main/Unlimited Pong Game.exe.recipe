@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\ZAWAD\Documents\game\game-premake-main\Pong Ball\_bin\Release\Unlimited Pong Game.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\ZAWAD\Documents\game\game-premake-main\Pong Ball\icon.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\ZAWAD\Documents\game\game-premake-main\Pong Ball\ball_drop_sound.wav</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\ZAWAD\Documents\game\game-premake-main\Pong Ball\ball_hit_sound.wav</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\ZAWAD\Documents\game\game-premake-main\Pong Ball\gian_point_sound.wav</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\ZAWAD\Documents\game\game-premake-main\Pong Ball\lose_point_sound.wav</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

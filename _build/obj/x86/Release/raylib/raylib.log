@@ -1,0 +1,11 @@
+﻿  raudio.c
+  rcore.c
+  rglfw.c
+  rmodels.c
+C:\Users\ZAWAD\Documents\game\game-premake-main\Pong Ball\raylib-master\src\rmodels.c(5234,23): warning C4018: '<': signed/unsigned mismatch
+  rshapes.c
+  rtext.c
+  rtextures.c
+  utils.c
+  Generating Code...
+  raylib.vcxproj -> C:\Users\ZAWAD\Documents\game\game-premake-main\Pong Ball\_bin\Release\raylib.lib
