@@ -1,16 +1,6 @@
 # Game Image
 
-![GameImage][gameImage.png]
-
-
-
-
-
-
-
-
-
-
+![GameImage](gameImage.png)
 
 
 # Raylib Setup using Premake5
